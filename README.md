@@ -111,7 +111,7 @@ The analysis highlights key sales trends, identifies profitable products and reg
 ##  Technical Appendix
 
 <details>
-<summary><strong>📁 Dataset Description (Click to Expand)</strong></summary>
+<summary><strong> Dataset Description (Click to Expand)</strong></summary>
 
 ## Data Source
 
@@ -202,7 +202,7 @@ The dataset contains information collected from direct marketing campaigns condu
 </details>
 
 <details>
-<summary><strong>📊 Dashboard Preview</strong></summary>
+<summary><strong> Dashboard Preview (Click to Expand)</strong></summary>
 
 ### Executive Summary
 
