@@ -66,6 +66,91 @@ This dashboard enables decision-makers to:
 
 ---
 
+<details>
+<summary><strong>🛠️ Technical Skills Demonstrated</strong></summary>
+
+### Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+
+### Data Analytics
+
+- Financial Analysis
+- Sales Analytics
+- Operational Analytics
+- KPI Development
+
+</details>
+
+---
+
+<details>
+<summary><strong>📊 Dashboard Preview</strong></summary>
+
+### Executive Summary
+
+![Executive Summary](images/executive_summary.PNG)
+
+### Sales Performance
+
+![Sales Performance](images/sales_performance.PNG)
+
+### Profitability & Margin
+
+![Profitability & Margin](images/profitability_margin.PNG)
+
+### Operational Performance
+
+![Operational Performance](images/operational_performance.PNG)
+
+</details>
+
+---
+
+<details>
+<summary><strong>📁 Data Source</strong></summary>
+
+### Dataset
+
+Financial Sample Dataset
+
+### Time Period
+
+September 2013 – December 2014
+
+### Records
+
+Approximately 700 financial transactions
+
+</details>
+
+
+
+
+
+
+
+
+
+## Technical Skills Demonstrated
+
+### Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+
+### Data Analytics
+
+- Financial Analysis
+- Sales Analytics
+- Operational Analytics
+- KPI Development
+
+---
+
 ## Dashboard Preview
 
 ### Executive Summary
@@ -101,21 +186,3 @@ September 2013 – December 2014
 Approximately 700 financial transactions
 
 ---
-
-## Technical Skills Demonstrated
-
-### Business Intelligence
-
-- Power BI
-- DAX
-- Power Query
-
-### Data Analytics
-
-- Financial Analysis
-- Sales Analytics
-- Operational Analytics
-- KPI Development
-
----
-
