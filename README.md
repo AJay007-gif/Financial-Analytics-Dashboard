@@ -1,4 +1,13 @@
-#  Financial & Operational Performance Dashboard
+# Financial & Operational Performance Dashboard
+
+> **An end-to-end business intelligence solution that transforms raw financial data into actionable insights through interactive dashboards, KPI monitoring, variance analysis, and executive reporting.**
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
+[![DAX](https://img.shields.io/badge/DAX-Analysis-blue?style=flat)]()
+[![Power Query](https://img.shields.io/badge/Power_Query-Transformation-green?style=flat)]()
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)]()
+[![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-Analytics-orange?style=flat)]()
+
 
 ## Executive Summary
 
