@@ -111,24 +111,95 @@ The analysis highlights key sales trends, identifies profitable products and reg
 ##  Technical Appendix
 
 <details>
-<summary><strong>🛠️ Technical Skills Demonstrated</strong></summary>
+<summary><strong>📁 Dataset Description (Click to Expand)</strong></summary>
 
-### Business Intelligence
+## Data Source
 
-- Power BI
-- DAX
-- Power Query
+**Dataset:** Bank Marketing Dataset
 
-### Data Analytics
+**Source:** UCI Machine Learning Repository
 
-- Financial Analysis
-- Sales Analytics
-- Operational Analytics
-- KPI Development
+**Official Dataset:**
 
-</details>
+https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ---
+
+### Dataset Overview
+
+The dataset contains information collected from direct marketing campaigns conducted by a Portuguese banking institution. The objective is to predict whether a customer will subscribe to a term deposit based on demographic characteristics and previous marketing interactions.
+
+---
+
+### Dataset Characteristics
+
+| Attribute | Value |
+|------------|--------|
+| Records | 700 |
+| Missing Values | None |
+
+---
+
+### Features Used
+
+#### Product Information
+
+- Product
+- Segment
+- Discount Band
+
+---
+
+#### Sales Metrics
+
+- Units Sold
+- Manufacturing Price
+- Sale Price
+- Gross Sales
+- Discounts
+- Sales Revenue
+- Cost of Goods Sold (COGS)
+- Profit
+
+---
+
+#### Geographic Information
+
+- Country
+
+---
+
+#### Time-Based Information
+
+- Date
+- Month
+- Quarter
+- Year
+
+---
+
+#### Business Metrics
+
+- Revenue
+- Profit Margin
+- Sales Growth
+- Operational Performance Indicators
+- Key Performance Indicators (KPIs)
+
+---
+
+#### Data Preparation
+
+- Imported the Financial Sample dataset into Power BI.
+- Inspected data quality and verified column data types.
+- Removed unnecessary columns and duplicate records.
+- Standardized date, currency, and numerical formats.
+- Created relationships between tables where necessary.
+- Developed calculated columns and DAX measures.
+- Built KPI metrics to support financial and operational reporting.
+- Validated the dataset before creating visualizations.
+
+</details>
 
 <details>
 <summary><strong>📊 Dashboard Preview</strong></summary>
@@ -152,23 +223,4 @@ The analysis highlights key sales trends, identifies profitable products and reg
 </details>
 
 ---
-
-<details>
-<summary><strong>📁 Data Source</strong></summary>
-
-### Dataset
-
-Financial Sample Dataset
-
-### Time Period
-
-September 2013 – December 2014
-
-### Records
-
-Approximately 700 financial transactions
-
-</details>
-
-
 
