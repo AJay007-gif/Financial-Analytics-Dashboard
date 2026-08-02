@@ -34,6 +34,38 @@ The dashboard enables users to:
 
 ---
 
+## Key Insights
+
+- Government generated the highest revenue, contributing approximately 44% of total sales.
+- Paseo was the strongest-performing product in both revenue and units sold.
+- VTT demonstrated the highest profit efficiency relative to sales.
+- Heavy discounting reduced profitability for several products.
+- Sales exhibited clear seasonal trends, creating opportunities for improved planning.
+
+---
+
+## Business Recommendations
+
+- Prioritize Government accounts and contract expansion.
+- Review discount strategies to improve margins.
+- Increase investment in high-performing products such as Paseo and VTT.
+- Investigate low-margin products to improve profitability.
+- Use seasonal trends to optimize inventory and resource planning.
+
+---
+
+## Business Impact
+
+This dashboard enables decision-makers to:
+
+- Monitor financial performance
+- Improve pricing strategies
+- Track profitability
+- Optimize operational efficiency
+- Support strategic decision-making
+
+---
+
 ## Dashboard Preview
 
 ### Executive Summary
@@ -70,47 +102,6 @@ Approximately 700 financial transactions
 
 ---
 
-## Technology Stack
-
-- Power BI
-- Power Query
-- DAX
-- Excel
-
----
-
-## Key Insights
-
-- Government generated the highest revenue, contributing approximately 44% of total sales.
-- Paseo was the strongest-performing product in both revenue and units sold.
-- VTT demonstrated the highest profit efficiency relative to sales.
-- Heavy discounting reduced profitability for several products.
-- Sales exhibited clear seasonal trends, creating opportunities for improved planning.
-
----
-
-## Business Recommendations
-
-- Prioritize Government accounts and contract expansion.
-- Review discount strategies to improve margins.
-- Increase investment in high-performing products such as Paseo and VTT.
-- Investigate low-margin products to improve profitability.
-- Use seasonal trends to optimize inventory and resource planning.
-
----
-
-## Business Impact
-
-This dashboard enables decision-makers to:
-
-- Monitor financial performance
-- Improve pricing strategies
-- Track profitability
-- Optimize operational efficiency
-- Support strategic decision-making
-
----
-
 ## Technical Skills Demonstrated
 
 ### Business Intelligence
@@ -125,13 +116,6 @@ This dashboard enables decision-makers to:
 - Sales Analytics
 - Operational Analytics
 - KPI Development
-
-### Dashboard Design
-
-- Executive Reporting
-- Interactive Visualizations
-- Business Storytelling
-- Decision Support
 
 ---
 
