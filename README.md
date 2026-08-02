@@ -115,13 +115,13 @@ The analysis highlights key sales trends, identifies profitable products and reg
 
 ## Data Source
 
-**Dataset:** Bank Marketing Dataset
+**Dataset:** Financial Sample Dataset
 
-**Source:** UCI Machine Learning Repository
+**Source:** Kaggle
 
 **Official Dataset:**
 
-https://archive.ics.uci.edu/dataset/222/bank+marketing
+https://www.kaggle.com/datasets/konstantinognev/financial-samplexlsx
 
 ---
 
