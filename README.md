@@ -74,6 +74,30 @@ This dashboard enables decision-makers to:
 - Support strategic decision-making
 
 ---
+## Technical Skills Demonstrated
+
+###  Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analysis-blue?style=flat)
+![Power Query](https://img.shields.io/badge/Power_Query-Data_Transformation-green?style=flat)
+
+---
+
+###  Data Analytics
+
+![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-orange?style=flat)
+![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-blue?style=flat)
+![Operational Analytics](https://img.shields.io/badge/Operational_Analytics-purple?style=flat)
+![KPI Development](https://img.shields.io/badge/KPI_Development-red?style=flat)
+
+---
+
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-teal?style=flat)
+![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-yellow?style=flat)
+![Variance Analysis](https://img.shields.io/badge/Variance_Analysis-lightgrey?style=flat)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-darkgreen?style=flat)
+
 
 ## Limitations
 
