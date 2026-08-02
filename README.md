@@ -93,12 +93,6 @@ This dashboard enables decision-makers to:
 
 ---
 
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-teal?style=flat)
-![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-yellow?style=flat)
-![Variance Analysis](https://img.shields.io/badge/Variance_Analysis-lightgrey?style=flat)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-darkgreen?style=flat)
-
-
 ## Limitations
 
 - The dashboard relies on historical data from September 2013 through December 2014.
