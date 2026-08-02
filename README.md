@@ -75,6 +75,23 @@ This dashboard enables decision-makers to:
 
 ---
 
+## Limitations
+
+- The dashboard relies on historical data from September 2013 through December 2014.
+- Customer demographic information was unavailable.
+- External factors such as inflation, seasonality, and market conditions were not included.
+- The dataset contains approximately 700 records, limiting the scope of the analysis.
+
+---
+
+## Conclusion
+
+This dashboard demonstrates how Power BI can transform raw financial data into meaningful business insights through interactive visualizations, KPI tracking, profitability analysis, and operational reporting.
+
+The analysis highlights key sales trends, identifies profitable products and regions, and provides decision-makers with the information needed to optimize performance and support strategic planning.
+
+##  Technical Appendix
+
 <details>
 <summary><strong>🛠️ Technical Skills Demonstrated</strong></summary>
 
